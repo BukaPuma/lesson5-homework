@@ -2,7 +2,8 @@
   "name": "lesson5-bukapuma",
   "version": "1.0.3",
   "keywords": [
-    "crtweb-bukapuma, lesson5-bukapuma"
+    "crtweb-bukapuma",
+    "lesson5-bukapuma"
   ],
   "description": "sandbox packet",
   "main": "index.js",
