@@ -1,0 +1,19 @@
+{
+  "name": "lesson5-homework",
+  "version": "1.0.1",
+  "description": "sandbox packet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BukaPuma/lesson5-homework.git"
+  },
+  "author": "Rudenko Natalia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BukaPuma/lesson5-homework/issues"
+  },
+  "homepage": "https://github.com/BukaPuma/lesson5-homework#readme"
+}
